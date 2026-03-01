@@ -20,7 +20,7 @@ with col2:
 # CARGAR MODELO
 
 
-model = joblib.load("random_forest_model.pkl")
+model = joblib.load("streamlit_app/random_forest_model.pkl")
 
 
 # LISTA COLUMNAS EXACTAS MODELO
