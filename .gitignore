@@ -1,0 +1,13 @@
+# Ignorar carpetas de datos (donde están tus CSV)
+data/
+
+# Ignorar archivos binarios de modelos
+models/*.pkl
+
+# Ignorar basura de Python y Notebooks
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Ignorar el entorno virtual si lo tienes
+venv/
