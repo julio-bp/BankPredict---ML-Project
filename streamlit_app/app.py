@@ -15,8 +15,7 @@ with col1:
     st.write("Introduce los datos del cliente para predecir si contratará el depósito")
 
 with col2:
-    st.image("logoBank.png", width=140)
-
+    st.image("streamlit_app/logoBank.png", width=140)
 
 # CARGAR MODELO
 
